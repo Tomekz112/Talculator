@@ -1,0 +1,18 @@
+Różne funkcje matematyczne znajdujące się w folderze functions, pliki .funcs gdzie jest podany input (np. 1 liczba, 2 liczby etc.) oraz ścieżka do pliku .exe, następnie kalkulator uruchamia ten plik exe podaje input i wczytuje output, funkcje mogą być zrobione w różnych językach.
+
+Jeśli funkcja nie istnieje - czerwony kolor funkcji
+Jeśli funkcja ma zły input - niebieski kolor funkcji
+jeśli się naciągnie na te funkcje napis przy kursorze typu "wrong input" albo "func does not exist"
+
+wywalenie notacji wykładniczej
+
+Dodanie pamięci
+
+mniejszy priorytet:
+*kiedy naciągniemy na przycisk animacja powiększenia tła przycisku
+*overhaul wygladu
+*jako potęgi dodanie takich małych cyferek
+*Zrobienie instalatora i dezinstalatora
+
+Bugi do naprawienia:
+usuwa nawiasy przez limit tych tych

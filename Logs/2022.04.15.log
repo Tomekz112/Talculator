@@ -1,0 +1,805 @@
+2022.04.15 01:56:03 Discord Presence error has occurred: Timed out waiting for pipe '\\.\pipe\discord-ipc-0' to come available, shutdown: false
+2022.04.15 01:56:03 Please ensure that discord is opened!
+Temporarily disabling discord rich presence
+2022.04.15 01:56:19 Tried adding: 1
+2022.04.15 01:56:19 Tried adding: 2
+2022.04.15 01:56:19 Tried adding: +
+2022.04.15 01:56:19 Tried adding: 1
+2022.04.15 01:56:20 Tried adding: 2
+2022.04.15 01:56:20 Tried adding: =
+2022.04.15 01:56:20 Calculating: 12+12
+2022.04.15 01:56:20 Result: 24
+2022.04.15 01:56:28 Allocated Ram: 15MiB
+2022.04.15 01:56:28 Total memory obtained from OS: 25MiB
+2022.04.15 01:56:28 Total garbage collected memory: 120MiB
+2022.04.15 01:56:28 Closing program...
+2022.04.15 02:15:01 Started program
+2022.04.15 02:15:01 Loaded config
+2022.04.15 02:15:03 Discord Presence error has occurred: Timed out waiting for pipe '\\.\pipe\discord-ipc-0' to come available, shutdown: false
+2022.04.15 02:15:03 Please ensure that discord is opened!
+Temporarily disabling discord rich presence
+2022.04.15 02:15:05 Tried adding: 1
+2022.04.15 02:15:05 Tried adding: 2
+2022.04.15 02:15:27 Allocated Ram: 8MiB
+2022.04.15 02:15:27 Total memory obtained from OS: 29MiB
+2022.04.15 02:15:27 Total garbage collected memory: 99MiB
+2022.04.15 02:15:27 Closing program...
+2022.04.15 02:23:27 Started program
+2022.04.15 02:23:27 Loaded config
+2022.04.15 02:23:29 Discord Presence error has occurred: Timed out waiting for pipe '\\.\pipe\discord-ipc-0' to come available, shutdown: false
+2022.04.15 02:23:29 Please ensure that discord is opened!
+Temporarily disabling discord rich presence
+2022.04.15 02:23:31 Tried adding: 1
+2022.04.15 02:23:31 Tried adding: 5
+2022.04.15 02:23:33 Tried adding: .
+2022.04.15 02:23:35 Tried adding: .
+2022.04.15 02:23:35 Tried adding: ,
+2022.04.15 02:23:36 Tried adding: ,
+2022.04.15 02:23:36 Tried adding: .
+2022.04.15 02:23:37 Tried adding: .
+2022.04.15 02:23:37 Tried adding: .
+2022.04.15 02:23:38 Tried adding: .
+2022.04.15 02:23:40 Tried adding: .
+2022.04.15 02:23:40 Tried adding: ,
+2022.04.15 02:23:41 Tried adding: +
+2022.04.15 02:23:41 Tried adding: 6
+2022.04.15 02:24:14 Started program
+2022.04.15 02:24:14 Loaded config
+2022.04.15 02:24:16 Discord Presence error has occurred: Timed out waiting for pipe '\\.\pipe\discord-ipc-0' to come available, shutdown: false
+2022.04.15 02:24:16 Please ensure that discord is opened!
+Temporarily disabling discord rich presence
+2022.04.15 02:24:20 Tried adding: 1
+2022.04.15 02:24:20 Tried adding: 2
+2022.04.15 02:24:22 Tried adding: .
+2022.04.15 02:24:23 Tried adding: .
+2022.04.15 02:24:23 Tried adding: .
+2022.04.15 02:24:23 Tried adding: .
+2022.04.15 02:24:24 Tried adding: ,
+2022.04.15 02:24:24 Tried adding: ,
+2022.04.15 02:24:24 Tried adding: ,
+2022.04.15 02:24:25 Tried adding: .
+2022.04.15 02:24:25 Tried adding: .
+2022.04.15 02:24:25 Tried adding: .
+2022.04.15 02:24:25 Tried adding: .
+2022.04.15 02:24:26 Tried adding: .
+2022.04.15 02:24:26 Tried adding: .
+2022.04.15 02:24:26 Tried adding: .
+2022.04.15 02:24:26 Tried adding: .
+2022.04.15 02:25:06 Allocated Ram: 10MiB
+2022.04.15 02:25:06 Total memory obtained from OS: 25MiB
+2022.04.15 02:25:06 Total garbage collected memory: 239MiB
+2022.04.15 02:25:06 Closing program...
+2022.04.15 02:25:14 Started program
+2022.04.15 02:25:14 Loaded config
+2022.04.15 02:25:16 Discord Presence error has occurred: Timed out waiting for pipe '\\.\pipe\discord-ipc-0' to come available, shutdown: false
+2022.04.15 02:25:16 Please ensure that discord is opened!
+Temporarily disabling discord rich presence
+2022.04.15 02:25:18 Tried adding: 1
+2022.04.15 02:25:18 Tried adding: 2
+2022.04.15 02:25:19 Tried adding: .
+2022.04.15 02:25:20 Tried adding: +
+2022.04.15 02:25:22 Tried adding: 3
+2022.04.15 02:25:22 Tried adding: 2
+2022.04.15 02:25:22 Tried adding: /
+2022.04.15 02:25:24 Tried adding: 1
+2022.04.15 02:25:24 Tried adding: 2
+2022.04.15 02:25:25 Tried adding: 1
+2022.04.15 02:25:25 Tried adding: 2
+2022.04.15 02:25:25 Tried adding: +
+2022.04.15 02:25:26 Tried adding: 5
+2022.04.15 02:25:26 Tried adding: 3
+2022.04.15 02:25:26 Tried adding: 2
+2022.04.15 02:25:27 Tried adding: =
+2022.04.15 02:25:27 Calculating: 12+32/1212+532
+2022.04.15 02:25:27 Result: 544.026402640264
+2022.04.15 02:25:29 Tried adding: =
+2022.04.15 02:25:29 Calculating: 544.026402640264
+2022.04.15 02:25:29 Result: 544.026402640264
+2022.04.15 02:25:29 Tried adding: =
+2022.04.15 02:25:29 Calculating: 544.026402640264
+2022.04.15 02:25:29 Result: 544.026402640264
+2022.04.15 02:25:30 Tried adding: =
+2022.04.15 02:25:30 Calculating: 544.026402640264
+2022.04.15 02:25:30 Result: 544.026402640264
+2022.04.15 02:25:30 Tried adding: +
+2022.04.15 02:25:31 Tried adding: 5
+2022.04.15 02:25:31 Tried adding: 3
+2022.04.15 02:25:31 Tried adding: 4
+2022.04.15 02:25:31 Tried adding: 8
+2022.04.15 02:25:31 Tried adding: 9
+2022.04.15 02:25:31 Tried adding: 5
+2022.04.15 02:25:31 Tried adding: 7
+2022.04.15 02:25:31 Tried adding: 8
+2022.04.15 02:25:31 Tried adding: 3
+2022.04.15 02:25:31 Tried adding: 49
+2022.04.15 02:25:31 Tried adding: 7
+2022.04.15 02:25:31 Tried adding: 5
+2022.04.15 02:25:32 Tried adding: 8
+2022.04.15 02:25:32 Tried adding: 9
+2022.04.15 02:25:32 Tried adding: 43
+2022.04.15 02:25:32 Tried adding: 7
+2022.04.15 02:25:32 Tried adding: 5
+2022.04.15 02:25:32 Tried adding: 8
+2022.04.15 02:25:32 Tried adding: 9
+2022.04.15 02:25:32 Tried adding: 4
+2022.04.15 02:25:32 Tried adding: 3
+2022.04.15 02:25:32 Tried adding: 5
+2022.04.15 02:25:32 Tried adding: =
+2022.04.15 02:25:32 Calculating: 544.026402640264+534895783497589437589435
+2022.04.15 02:25:32 Result: 5.348957834975894e+23
+2022.04.15 02:25:51 Allocated Ram: 14MiB
+2022.04.15 02:25:51 Total memory obtained from OS: 33MiB
+2022.04.15 02:25:51 Total garbage collected memory: 187MiB
+2022.04.15 02:25:51 Closing program...
+2022.04.15 02:26:17 Started program
+2022.04.15 02:26:17 Loaded config
+2022.04.15 02:26:19 Discord Presence error has occurred: Timed out waiting for pipe '\\.\pipe\discord-ipc-0' to come available, shutdown: false
+2022.04.15 02:26:19 Please ensure that discord is opened!
+Temporarily disabling discord rich presence
+2022.04.15 02:26:21 Tried adding: 9
+2022.04.15 02:26:22 Tried adding: 2
+2022.04.15 02:26:23 Tried adding: 2
+2022.04.15 02:26:26 Tried adding: 3
+2022.04.15 02:26:26 Tried adding: 3
+2022.04.15 02:26:27 Tried adding: 7
+2022.04.15 02:26:28 Tried adding: 2
+2022.04.15 02:26:28 Tried adding: 0
+2022.04.15 02:26:29 Tried adding: 3
+2022.04.15 02:26:29 Tried adding: 6
+2022.04.15 02:26:31 Tried adding: 8
+2022.04.15 02:26:34 Tried adding: 5
+2022.04.15 02:26:35 Tried adding: 4
+2022.04.15 02:26:36 Tried adding: 7
+2022.04.15 02:26:37 Tried adding: 7
+2022.04.15 02:26:38 Tried adding: 5
+2022.04.15 02:26:38 Tried adding: 8
+2022.04.15 02:26:38 Tried adding: 0
+2022.04.15 02:26:39 Tried adding: 7
+2022.04.15 02:26:39 Tried adding: +
+2022.04.15 02:26:39 Tried adding: 1
+2022.04.15 02:26:40 Tried adding: =
+2022.04.15 02:26:40 Calculating: 9223372036854775807+1
+2022.04.15 02:26:40 Result: 9.223372036854776e+18
+2022.04.15 02:26:42 Tried adding: +
+2022.04.15 02:26:43 Tried adding: 1
+2022.04.15 02:26:43 Tried adding: 2
+2022.04.15 02:26:43 Tried adding: 1
+2022.04.15 02:26:43 Tried adding: 2
+2022.04.15 02:26:43 Tried adding: 1
+2022.04.15 02:26:43 Tried adding: 2
+2022.04.15 02:26:44 Tried adding: =
+2022.04.15 02:26:44 Calculating: 9.223372036854776e+18121212+
+2022.04.15 02:26:44 Tried adding: =
+2022.04.15 02:26:44 Calculating: 9.223372036854776e+18121212+
+2022.04.15 02:26:44 Tried adding: =
+2022.04.15 02:26:44 Calculating: 9.223372036854776e+18121212+
+2022.04.15 02:26:45 Tried adding: =
+2022.04.15 02:26:45 Calculating: 9.223372036854776e+18121212+
+2022.04.15 02:26:45 Tried adding: +
+2022.04.15 02:26:45 Tried adding: 1
+2022.04.15 02:26:45 Tried adding: 2
+2022.04.15 02:26:45 Tried adding: 1
+2022.04.15 02:26:45 Tried adding: 4
+2022.04.15 02:26:46 Tried adding: 23
+2022.04.15 02:26:46 Tried adding: 4
+2022.04.15 02:26:46 Tried adding: 2
+2022.04.15 02:26:46 Tried adding: 3
+2022.04.15 02:26:46 Tried adding: +
+2022.04.15 02:26:46 Tried adding: 5
+2022.04.15 02:26:46 Tried adding: 4
+2022.04.15 02:26:46 Tried adding: 3
+2022.04.15 02:26:47 Tried adding: 5
+2022.04.15 02:26:47 Tried adding: 34
+2022.04.15 02:26:47 Tried adding: 5
+2022.04.15 02:26:47 Tried adding: 43
+2022.04.15 02:26:47 Tried adding: +
+2022.04.15 02:26:48 Tried adding: 4
+2022.04.15 02:26:48 Tried adding: 3
+2022.04.15 02:26:48 Tried adding: 5
+2022.04.15 02:26:48 Tried adding: 3
+2022.04.15 02:26:48 Tried adding: 4
+2022.04.15 02:26:48 Tried adding: 5
+2022.04.15 02:26:48 Tried adding: 4
+2022.04.15 02:26:48 Tried adding: 3
+2022.04.15 02:26:48 Tried adding: ⌫
+2022.04.15 02:26:49 Tried adding: ⌫
+2022.04.15 02:26:50 Tried adding: =
+2022.04.15 02:26:50 Calculating: 9.223372036854776e+18121212+121423423+543534543+4353454
+2022.04.15 02:26:50 Tried adding: =
+2022.04.15 02:26:50 Calculating: 9.223372036854776e+18121212+121423423+543534543+4353454
+2022.04.15 02:26:50 Tried adding: =
+2022.04.15 02:26:50 Calculating: 9.223372036854776e+18121212+121423423+543534543+4353454
+2022.04.15 02:26:50 Tried adding: ⌫
+2022.04.15 02:26:51 Tried adding: ⌫
+2022.04.15 02:26:51 Tried adding: ⌫
+2022.04.15 02:26:51 Tried adding: ⌫
+2022.04.15 02:26:52 Tried adding: ⌫
+2022.04.15 02:26:52 Tried adding: ⌫
+2022.04.15 02:26:52 Tried adding: ⌫
+2022.04.15 02:26:52 Tried adding: ⌫
+2022.04.15 02:26:52 Tried adding: ⌫
+2022.04.15 02:26:52 Tried adding: ⌫
+2022.04.15 02:26:52 Tried adding: ⌫
+2022.04.15 02:26:52 Tried adding: ⌫
+2022.04.15 02:26:52 Tried adding: ⌫
+2022.04.15 02:26:52 Tried adding: ⌫
+2022.04.15 02:26:52 Tried adding: ⌫
+2022.04.15 02:26:52 Tried adding: ⌫
+2022.04.15 02:26:52 Tried adding: ⌫
+2022.04.15 02:26:52 Tried adding: ⌫
+2022.04.15 02:26:52 Tried adding: ⌫
+2022.04.15 02:26:52 Tried adding: ⌫
+2022.04.15 02:26:52 Tried adding: ⌫
+2022.04.15 02:26:52 Tried adding: ⌫
+2022.04.15 02:26:52 Tried adding: ⌫
+2022.04.15 02:26:52 Tried adding: ⌫
+2022.04.15 02:26:52 Tried adding: ⌫
+2022.04.15 02:26:52 Tried adding: ⌫
+2022.04.15 02:26:52 Tried adding: ⌫
+2022.04.15 02:26:52 Tried adding: ⌫
+2022.04.15 02:26:53 Tried adding: ⌫
+2022.04.15 02:26:53 Tried adding: ⌫
+2022.04.15 02:26:53 Tried adding: ⌫
+2022.04.15 02:26:53 Tried adding: ⌫
+2022.04.15 02:26:53 Tried adding: ⌫
+2022.04.15 02:26:53 Tried adding: ⌫
+2022.04.15 02:26:53 Tried adding: ⌫
+2022.04.15 02:26:53 Tried adding: ⌫
+2022.04.15 02:26:53 Tried adding: ⌫
+2022.04.15 02:26:53 Tried adding: ⌫
+2022.04.15 02:26:54 Tried adding: =
+2022.04.15 02:26:54 Calculating: 9.223372036854776
+2022.04.15 02:26:54 Result: 9.223372036854776
+2022.04.15 02:26:54 Tried adding: =
+2022.04.15 02:26:54 Calculating: 9.223372036854776
+2022.04.15 02:26:54 Result: 9.223372036854776
+2022.04.15 02:26:55 Tried adding: =
+2022.04.15 02:26:55 Calculating: 9.223372036854776
+2022.04.15 02:26:55 Result: 9.223372036854776
+2022.04.15 02:26:55 Tried adding: =
+2022.04.15 02:26:55 Calculating: 9.223372036854776
+2022.04.15 02:26:55 Result: 9.223372036854776
+2022.04.15 02:26:55 Tried adding: 4
+2022.04.15 02:26:55 Tried adding: 3
+2022.04.15 02:26:55 Tried adding: 5
+2022.04.15 02:26:55 Tried adding: 3
+2022.04.15 02:26:55 Tried adding: 4
+2022.04.15 02:26:55 Tried adding: 5
+2022.04.15 02:26:56 Tried adding: =
+2022.04.15 02:26:56 Calculating: 9.223372036854776435345
+2022.04.15 02:26:56 Result: 9.223372036854776
+2022.04.15 02:26:56 Tried adding: =
+2022.04.15 02:26:56 Calculating: 9.223372036854776
+2022.04.15 02:26:56 Result: 9.223372036854776
+2022.04.15 02:26:56 Tried adding: 5
+2022.04.15 02:26:56 Tried adding: 43
+2022.04.15 02:26:56 Tried adding: 5
+2022.04.15 02:26:56 Tried adding: 3
+2022.04.15 02:26:56 Tried adding: 4
+2022.04.15 02:26:57 Tried adding: 5
+2022.04.15 02:26:57 Tried adding: =
+2022.04.15 02:26:57 Calculating: 9.2233720368547765435345
+2022.04.15 02:26:57 Result: 9.223372036854776
+2022.04.15 02:26:57 Tried adding: =
+2022.04.15 02:26:57 Calculating: 9.223372036854776
+2022.04.15 02:26:57 Result: 9.223372036854776
+2022.04.15 02:26:57 Tried adding: =
+2022.04.15 02:26:57 Calculating: 9.223372036854776
+2022.04.15 02:26:57 Result: 9.223372036854776
+2022.04.15 02:26:57 Tried adding: =
+2022.04.15 02:26:57 Calculating: 9.223372036854776
+2022.04.15 02:26:57 Result: 9.223372036854776
+2022.04.15 02:26:57 Tried adding: 4
+2022.04.15 02:26:58 Tried adding: 5
+2022.04.15 02:26:58 Tried adding: 4
+2022.04.15 02:26:58 Tried adding: 5
+2022.04.15 02:26:58 Tried adding: 5
+2022.04.15 02:26:58 Tried adding: 4
+2022.04.15 02:26:58 Tried adding: 5
+2022.04.15 02:26:59 Tried adding: 4
+2022.04.15 02:26:59 Tried adding: 5
+2022.04.15 02:26:59 Tried adding: =
+2022.04.15 02:26:59 Calculating: 9.223372036854776454554545
+2022.04.15 02:26:59 Result: 9.223372036854776
+2022.04.15 02:27:00 Tried adding: ⌫
+2022.04.15 02:27:01 Tried adding: ⌫
+2022.04.15 02:27:01 Tried adding: ⌫
+2022.04.15 02:27:01 Tried adding: ⌫
+2022.04.15 02:27:01 Tried adding: ⌫
+2022.04.15 02:27:01 Tried adding: ⌫
+2022.04.15 02:27:01 Tried adding: ⌫
+2022.04.15 02:27:01 Tried adding: ⌫
+2022.04.15 02:27:01 Tried adding: ⌫
+2022.04.15 02:27:01 Tried adding: ⌫
+2022.04.15 02:27:01 Tried adding: ⌫
+2022.04.15 02:27:01 Tried adding: 5
+2022.04.15 02:27:01 Tried adding: 4
+2022.04.15 02:27:01 Tried adding: 5
+2022.04.15 02:27:02 Tried adding: 5
+2022.04.15 02:27:02 Tried adding: 5
+2022.04.15 02:27:02 Tried adding: 5
+2022.04.15 02:27:02 Tried adding: 5
+2022.04.15 02:27:02 Tried adding: 5
+2022.04.15 02:27:02 Tried adding: 5
+2022.04.15 02:27:02 Tried adding: 5
+2022.04.15 02:27:02 Tried adding: 5
+2022.04.15 02:27:02 Tried adding: 5
+2022.04.15 02:27:02 Tried adding: 5
+2022.04.15 02:27:02 Tried adding: 5
+2022.04.15 02:27:02 Tried adding: 5
+2022.04.15 02:27:02 Tried adding: 5
+2022.04.15 02:27:02 Tried adding: 5
+2022.04.15 02:27:02 Tried adding: 5
+2022.04.15 02:27:02 Tried adding: 5
+2022.04.15 02:27:02 Tried adding: 5=
+2022.04.15 02:27:03 Tried adding: ⌫
+2022.04.15 02:27:04 Tried adding: =
+2022.04.15 02:27:04 Calculating: 9.2233545555555555555555
+2022.04.15 02:27:04 Result: 9.223354555555556
+2022.04.15 02:27:05 Tried adding: 5
+2022.04.15 02:27:05 Tried adding: 5
+2022.04.15 02:27:05 Tried adding: 5
+2022.04.15 02:27:05 Tried adding: 5
+2022.04.15 02:27:05 Tried adding: 5
+2022.04.15 02:27:05 Tried adding: 5
+2022.04.15 02:27:05 Tried adding: 5
+2022.04.15 02:27:05 Tried adding: 5
+2022.04.15 02:27:05 Tried adding: 5
+2022.04.15 02:27:05 Tried adding: 5
+2022.04.15 02:27:05 Tried adding: 5
+2022.04.15 02:27:05 Tried adding: 5
+2022.04.15 02:27:06 Tried adding: ⌫
+2022.04.15 02:27:07 Tried adding: =
+2022.04.15 02:27:07 Calculating: 9.22335455555555655555555555
+2022.04.15 02:27:07 Result: 9.223354555555556
+2022.04.15 02:27:07 Tried adding: 5
+2022.04.15 02:27:08 Tried adding: 5
+2022.04.15 02:27:08 Tried adding: 5
+2022.04.15 02:27:08 Tried adding: 5
+2022.04.15 02:27:08 Tried adding: 5
+2022.04.15 02:27:08 Tried adding: 5
+2022.04.15 02:27:08 Tried adding: 5
+2022.04.15 02:27:08 Tried adding: 54
+2022.04.15 02:27:08 Tried adding: 3
+2022.04.15 02:27:08 Tried adding: =
+2022.04.15 02:27:08 Calculating: 9.2233545555555565555555543
+2022.04.15 02:27:08 Result: 9.223354555555556
+2022.04.15 02:27:09 Tried adding: 5
+2022.04.15 02:27:09 Tried adding: 5
+2022.04.15 02:27:09 Tried adding: 5
+2022.04.15 02:27:09 Tried adding: 5
+2022.04.15 02:27:09 Tried adding: 5
+2022.04.15 02:27:09 Tried adding: 5
+2022.04.15 02:27:09 Tried adding: 5
+2022.04.15 02:27:09 Tried adding: 5
+2022.04.15 02:27:09 Tried adding: 5
+2022.04.15 02:27:09 Tried adding: 5
+2022.04.15 02:27:09 Tried adding: 3
+2022.04.15 02:27:10 Tried adding: 4
+2022.04.15 02:27:10 Tried adding: =
+2022.04.15 02:27:10 Calculating: 9.223354555555556555555555534
+2022.04.15 02:27:10 Result: 9.223354555555556
+2022.04.15 02:27:10 Tried adding: 5
+2022.04.15 02:27:10 Tried adding: 4
+2022.04.15 02:27:10 Tried adding: 3
+2022.04.15 02:27:11 Tried adding: 3
+2022.04.15 02:27:11 Tried adding: 3
+2022.04.15 02:27:11 Tried adding: 3
+2022.04.15 02:27:11 Tried adding: 3
+2022.04.15 02:27:11 Tried adding: 3
+2022.04.15 02:27:11 Tried adding: 3
+2022.04.15 02:27:11 Tried adding: 3
+2022.04.15 02:27:11 Tried adding: 3
+2022.04.15 02:27:11 Tried adding: 3
+2022.04.15 02:27:11 Tried adding: 3
+2022.04.15 02:27:11 Tried adding: 3
+2022.04.15 02:27:11 Tried adding: 3
+2022.04.15 02:27:11 Tried adding: =
+2022.04.15 02:27:11 Calculating: 9.223354555555556543333333333333
+2022.04.15 02:27:11 Result: 9.223354555555556
+2022.04.15 02:27:12 Tried adding: 5
+2022.04.15 02:27:12 Tried adding: 4
+2022.04.15 02:27:12 Tried adding: 3
+2022.04.15 02:27:12 Tried adding: 5
+2022.04.15 02:27:12 Tried adding: 3
+2022.04.15 02:27:12 Tried adding: 4
+2022.04.15 02:27:12 Tried adding: 5
+2022.04.15 02:27:12 Tried adding: 34
+2022.04.15 02:27:13 Tried adding: 5
+2022.04.15 02:27:13 Tried adding: 3
+2022.04.15 02:27:13 Tried adding: 4
+2022.04.15 02:27:13 Tried adding: 5
+2022.04.15 02:27:13 Tried adding: =
+2022.04.15 02:27:13 Calculating: 9.2233545555555565435345345345
+2022.04.15 02:27:13 Result: 9.223354555555556
+2022.04.15 02:27:13 Tried adding: 5
+2022.04.15 02:27:13 Tried adding: 4
+2022.04.15 02:27:13 Tried adding: 3
+2022.04.15 02:27:14 Tried adding: 5
+2022.04.15 02:27:14 Tried adding: 34
+2022.04.15 02:27:14 Tried adding: 5
+2022.04.15 02:27:14 Tried adding: 34
+2022.04.15 02:27:14 Tried adding: =
+2022.04.15 02:27:14 Calculating: 9.223354555555556543534534
+2022.04.15 02:27:14 Result: 9.223354555555556
+2022.04.15 02:27:14 Tried adding: 5
+2022.04.15 02:27:14 Tried adding: 3
+2022.04.15 02:27:14 Tried adding: =
+2022.04.15 02:27:14 Calculating: 9.22335455555555653
+2022.04.15 02:27:14 Result: 9.223354555555556
+2022.04.15 02:27:14 Tried adding: 5
+2022.04.15 02:27:15 Tried adding: 4
+2022.04.15 02:27:15 Tried adding: 3
+2022.04.15 02:27:15 Tried adding: =
+2022.04.15 02:27:15 Calculating: 9.223354555555556543
+2022.04.15 02:27:15 Result: 9.223354555555556
+2022.04.15 02:27:15 Tried adding: 5
+2022.04.15 02:27:15 Tried adding: =
+2022.04.15 02:27:15 Calculating: 9.2233545555555565
+2022.04.15 02:27:15 Result: 9.223354555555556
+2022.04.15 02:27:15 Tried adding: 34
+2022.04.15 02:27:15 Tried adding: 5
+2022.04.15 02:27:15 Tried adding: =
+2022.04.15 02:27:15 Calculating: 9.223354555555556345
+2022.04.15 02:27:15 Result: 9.223354555555556
+2022.04.15 02:27:15 Tried adding: 34
+2022.04.15 02:27:15 Tried adding: =
+2022.04.15 02:27:15 Calculating: 9.22335455555555634
+2022.04.15 02:27:15 Result: 9.223354555555556
+2022.04.15 02:27:15 Tried adding: 5
+2022.04.15 02:27:15 Tried adding: 3
+2022.04.15 02:27:15 Tried adding: 4
+2022.04.15 02:27:16 Tried adding: =
+2022.04.15 02:27:16 Calculating: 9.223354555555556534
+2022.04.15 02:27:16 Result: 9.223354555555556
+2022.04.15 02:27:16 Tried adding: 5
+2022.04.15 02:27:16 Tried adding: =
+2022.04.15 02:27:16 Calculating: 9.2233545555555565
+2022.04.15 02:27:16 Result: 9.223354555555556
+2022.04.15 02:27:16 Tried adding: 3
+2022.04.15 02:27:16 Tried adding: 4
+2022.04.15 02:27:16 Tried adding: 5
+2022.04.15 02:27:16 Tried adding: =
+2022.04.15 02:27:16 Calculating: 9.223354555555556345
+2022.04.15 02:27:16 Result: 9.223354555555556
+2022.04.15 02:27:16 Tried adding: 34
+2022.04.15 02:27:16 Tried adding: =
+2022.04.15 02:27:16 Calculating: 9.22335455555555634
+2022.04.15 02:27:16 Result: 9.223354555555556
+2022.04.15 02:27:16 Tried adding: 5
+2022.04.15 02:27:16 Tried adding: 3
+2022.04.15 02:27:16 Tried adding: =
+2022.04.15 02:27:16 Calculating: 9.22335455555555653
+2022.04.15 02:27:16 Result: 9.223354555555556
+2022.04.15 02:27:16 Tried adding: 4
+2022.04.15 02:27:17 Tried adding: =
+2022.04.15 02:27:17 Calculating: 9.2233545555555564
+2022.04.15 02:27:17 Result: 9.223354555555556
+2022.04.15 02:27:24 Allocated Ram: 9MiB
+2022.04.15 02:27:24 Total memory obtained from OS: 25MiB
+2022.04.15 02:27:24 Total garbage collected memory: 374MiB
+2022.04.15 02:27:24 Closing program...
+2022.04.15 02:29:57 Started program
+2022.04.15 02:29:57 Loaded config
+2022.04.15 02:30:00 Discord Presence error has occurred: Timed out waiting for pipe '\\.\pipe\discord-ipc-0' to come available, shutdown: false
+2022.04.15 02:30:00 Please ensure that discord is opened!
+Temporarily disabling discord rich presence
+2022.04.15 02:30:04 Allocated Ram: 11MiB
+2022.04.15 02:30:04 Total memory obtained from OS: 33MiB
+2022.04.15 02:30:04 Total garbage collected memory: 21MiB
+2022.04.15 02:30:04 Closing program...
+2022.04.15 02:30:10 Started program
+2022.04.15 02:30:10 Loaded config
+2022.04.15 02:30:12 Discord Presence error has occurred: Timed out waiting for pipe '\\.\pipe\discord-ipc-0' to come available, shutdown: false
+2022.04.15 02:30:12 Please ensure that discord is opened!
+Temporarily disabling discord rich presence
+2022.04.15 02:30:18 Allocated Ram: 8MiB
+2022.04.15 02:30:18 Total memory obtained from OS: 25MiB
+2022.04.15 02:30:18 Total garbage collected memory: 26MiB
+2022.04.15 02:30:18 Closing program...
+2022.04.15 02:32:03 Started program
+2022.04.15 02:32:03 Loaded config
+2022.04.15 02:32:06 Discord Presence error has occurred: Timed out waiting for pipe '\\.\pipe\discord-ipc-0' to come available, shutdown: false
+2022.04.15 02:32:06 Please ensure that discord is opened!
+Temporarily disabling discord rich presence
+2022.04.15 02:32:07 Tried adding: 1
+2022.04.15 02:32:07 Tried adding: 2
+2022.04.15 02:32:07 Tried adding: 1
+2022.04.15 02:32:07 Tried adding: 2
+2022.04.15 02:32:07 Tried adding: 1
+2022.04.15 02:32:08 Tried adding: 2
+2022.04.15 02:32:17 Tried adding: 1
+2022.04.15 02:32:17 Tried adding: 2
+2022.04.15 02:32:17 Tried adding: 1
+2022.04.15 02:32:17 Tried adding: 2
+2022.04.15 02:32:17 Tried adding: 1
+2022.04.15 02:32:18 Tried adding: 2
+2022.04.15 02:32:18 Tried adding: 1
+2022.04.15 02:32:18 Tried adding: 2
+2022.04.15 02:32:18 Tried adding: 1
+2022.04.15 02:32:18 Tried adding: 2
+2022.04.15 02:32:19 Tried adding: 1
+2022.04.15 02:32:19 Tried adding: 2
+2022.04.15 02:32:19 Tried adding: 1
+2022.04.15 02:32:19 Tried adding: 2
+2022.04.15 02:32:19 Tried adding: 1
+2022.04.15 02:32:19 Tried adding: 2
+2022.04.15 02:32:19 Tried adding: 1
+2022.04.15 02:32:20 Tried adding: 2
+2022.04.15 02:32:20 Tried adding: 1
+2022.04.15 02:32:20 Tried adding: 2
+2022.04.15 02:32:20 Tried adding: 2
+2022.04.15 02:32:20 Tried adding: 1
+2022.04.15 02:32:21 Tried adding: 2
+2022.04.15 02:32:21 Tried adding: 1
+2022.04.15 02:32:21 Tried adding: 2
+2022.04.15 02:32:21 Tried adding: 1
+2022.04.15 02:32:21 Tried adding: 2
+2022.04.15 02:32:21 Tried adding: 1
+2022.04.15 02:32:24 Tried adding: ⌫
+2022.04.15 02:32:24 Tried adding: ⌫
+2022.04.15 02:32:42 Allocated Ram: 11MiB
+2022.04.15 02:32:42 Total memory obtained from OS: 29MiB
+2022.04.15 02:32:42 Total garbage collected memory: 166MiB
+2022.04.15 02:32:42 Closing program...
+2022.04.15 02:32:49 Started program
+2022.04.15 02:32:49 Loaded config
+2022.04.15 02:32:52 Discord Presence error has occurred: Timed out waiting for pipe '\\.\pipe\discord-ipc-0' to come available, shutdown: false
+2022.04.15 02:32:52 Please ensure that discord is opened!
+Temporarily disabling discord rich presence
+2022.04.15 02:32:59 Tried adding: 1
+2022.04.15 02:33:00 Tried adding: 1
+2022.04.15 02:33:00 Tried adding: 1
+2022.04.15 02:33:00 Tried adding: 1
+2022.04.15 02:33:00 Tried adding: 1
+2022.04.15 02:33:00 Tried adding: 1
+2022.04.15 02:33:00 Tried adding: 1
+2022.04.15 02:33:00 Tried adding: 1
+2022.04.15 02:33:00 Tried adding: 1
+2022.04.15 02:33:00 Tried adding: 1
+2022.04.15 02:33:00 Tried adding: 1
+2022.04.15 02:33:00 Tried adding: 1
+2022.04.15 02:33:00 Tried adding: 1
+2022.04.15 02:33:00 Tried adding: 1
+2022.04.15 02:33:00 Tried adding: 1
+2022.04.15 02:33:01 Tried adding: 1
+2022.04.15 02:33:01 Tried adding: 1
+2022.04.15 02:33:01 Tried adding: 1
+2022.04.15 02:33:01 Tried adding: 1
+2022.04.15 02:33:01 Tried adding: 1
+2022.04.15 02:33:01 Tried adding: 1
+2022.04.15 02:33:01 Tried adding: 1
+2022.04.15 02:33:01 Tried adding: 1
+2022.04.15 02:33:01 Tried adding: 1
+2022.04.15 02:33:02 Tried adding: 1
+2022.04.15 02:33:02 Tried adding: 1
+2022.04.15 02:33:03 Tried adding: 1
+2022.04.15 02:33:03 Tried adding: 1
+2022.04.15 02:33:11 Allocated Ram: 11MiB
+2022.04.15 02:33:11 Total memory obtained from OS: 25MiB
+2022.04.15 02:33:11 Total garbage collected memory: 89MiB
+2022.04.15 02:33:11 Closing program...
+2022.04.15 02:33:19 Started program
+2022.04.15 02:33:19 Loaded config
+2022.04.15 02:33:21 Discord Presence error has occurred: Timed out waiting for pipe '\\.\pipe\discord-ipc-0' to come available, shutdown: false
+2022.04.15 02:33:21 Please ensure that discord is opened!
+Temporarily disabling discord rich presence
+2022.04.15 02:33:26 Tried adding: 1
+2022.04.15 02:33:37 Tried adding: 1
+2022.04.15 02:33:41 Tried adding: ⌫
+2022.04.15 02:33:41 Tried adding: ⌫
+2022.04.15 02:33:41 Tried adding: ⌫
+2022.04.15 02:33:42 Tried adding: ⌫
+2022.04.15 02:33:42 Tried adding: 1
+2022.04.15 02:33:43 Tried adding: 1
+2022.04.15 02:33:44 Allocated Ram: 15MiB
+2022.04.15 02:33:44 Total memory obtained from OS: 33MiB
+2022.04.15 02:33:44 Total garbage collected memory: 43MiB
+2022.04.15 02:33:44 Closing program...
+2022.04.15 02:33:50 Started program
+2022.04.15 02:33:50 Loaded config
+2022.04.15 02:33:53 Discord Presence error has occurred: Timed out waiting for pipe '\\.\pipe\discord-ipc-0' to come available, shutdown: false
+2022.04.15 02:33:53 Please ensure that discord is opened!
+Temporarily disabling discord rich presence
+2022.04.15 02:33:57 Tried adding: 1
+2022.04.15 02:33:58 Tried adding: 1
+2022.04.15 02:33:58 Tried adding: 1
+2022.04.15 02:33:58 Tried adding: 1
+2022.04.15 02:33:59 Tried adding: 1
+2022.04.15 02:34:00 Tried adding: 1
+2022.04.15 02:34:01 Tried adding: 1
+2022.04.15 02:34:01 Tried adding: 1
+2022.04.15 02:34:01 Tried adding: 1
+2022.04.15 02:34:01 Tried adding: 1
+2022.04.15 02:34:01 Tried adding: 1
+2022.04.15 02:34:01 Tried adding: 1
+2022.04.15 02:34:01 Tried adding: 1
+2022.04.15 02:34:01 Tried adding: 1
+2022.04.15 02:34:01 Tried adding: 1
+2022.04.15 02:34:01 Tried adding: 1
+2022.04.15 02:34:01 Tried adding: 1
+2022.04.15 02:34:01 Tried adding: 1
+2022.04.15 02:34:01 Tried adding: 1
+2022.04.15 02:34:01 Tried adding: 1
+2022.04.15 02:34:02 Tried adding: 1
+2022.04.15 02:34:02 Tried adding: 1
+2022.04.15 02:34:02 Tried adding: 1
+2022.04.15 02:34:02 Tried adding: 1
+2022.04.15 02:34:03 Tried adding: 1
+2022.04.15 02:35:02 Allocated Ram: 12MiB
+2022.04.15 02:35:02 Total memory obtained from OS: 25MiB
+2022.04.15 02:35:02 Total garbage collected memory: 383MiB
+2022.04.15 02:35:02 Closing program...
+2022.04.15 02:35:08 Started program
+2022.04.15 02:35:08 Loaded config
+2022.04.15 02:35:10 Discord Presence error has occurred: Timed out waiting for pipe '\\.\pipe\discord-ipc-0' to come available, shutdown: false
+2022.04.15 02:35:10 Please ensure that discord is opened!
+Temporarily disabling discord rich presence
+2022.04.15 02:35:14 Tried adding: 1
+2022.04.15 02:35:14 Tried adding: 1
+2022.04.15 02:35:14 Tried adding: 1
+2022.04.15 02:35:14 Tried adding: 1
+2022.04.15 02:35:14 Tried adding: 1
+2022.04.15 02:35:14 Tried adding: 1
+2022.04.15 02:35:14 Tried adding: 1
+2022.04.15 02:35:14 Tried adding: 1
+2022.04.15 02:35:14 Tried adding: 1
+2022.04.15 02:35:14 Tried adding: 1
+2022.04.15 02:35:14 Tried adding: 1
+2022.04.15 02:35:14 Tried adding: 1
+2022.04.15 02:35:15 Tried adding: 1
+2022.04.15 02:35:15 Tried adding: 1
+2022.04.15 02:35:15 Tried adding: 1
+2022.04.15 02:35:15 Tried adding: 1
+2022.04.15 02:35:15 Tried adding: 1
+2022.04.15 02:35:15 Tried adding: 1
+2022.04.15 02:35:15 Tried adding: 1
+2022.04.15 02:35:15 Tried adding: 1
+2022.04.15 02:35:15 Tried adding: 1
+2022.04.15 02:35:15 Tried adding: 1
+2022.04.15 02:35:16 Tried adding: 1
+2022.04.15 02:35:16 Tried adding: 1
+2022.04.15 02:35:16 Tried adding: 1
+2022.04.15 02:35:16 Tried adding: 1
+2022.04.15 02:35:16 Tried adding: 1
+2022.04.15 02:35:16 Tried adding: 1
+2022.04.15 02:35:16 Tried adding: 1
+2022.04.15 02:35:16 Tried adding: 1
+2022.04.15 02:35:16 Tried adding: 1
+2022.04.15 02:35:16 Tried adding: 1
+2022.04.15 02:35:17 Tried adding: 1
+2022.04.15 02:35:17 Tried adding: 1
+2022.04.15 02:35:34 Allocated Ram: 8MiB
+2022.04.15 02:35:34 Total memory obtained from OS: 25MiB
+2022.04.15 02:35:34 Total garbage collected memory: 149MiB
+2022.04.15 02:35:34 Closing program...
+2022.04.15 02:35:42 Started program
+2022.04.15 02:35:43 Loaded config
+2022.04.15 02:35:45 Discord Presence error has occurred: Timed out waiting for pipe '\\.\pipe\discord-ipc-0' to come available, shutdown: false
+2022.04.15 02:35:45 Please ensure that discord is opened!
+Temporarily disabling discord rich presence
+2022.04.15 02:35:46 Tried adding: 1
+2022.04.15 02:35:46 Tried adding: 1
+2022.04.15 02:35:46 Tried adding: 1
+2022.04.15 02:35:46 Tried adding: 1
+2022.04.15 02:35:46 Tried adding: 1
+2022.04.15 02:35:46 Tried adding: 1
+2022.04.15 02:35:47 Tried adding: 1
+2022.04.15 02:35:47 Tried adding: 1
+2022.04.15 02:35:47 Tried adding: 1
+2022.04.15 02:35:47 Tried adding: 1
+2022.04.15 02:35:47 Tried adding: 1
+2022.04.15 02:35:47 Tried adding: 1
+2022.04.15 02:35:47 Tried adding: 1
+2022.04.15 02:35:47 Tried adding: 1
+2022.04.15 02:35:47 Tried adding: 1
+2022.04.15 02:35:47 Tried adding: 1
+2022.04.15 02:35:47 Tried adding: 1
+2022.04.15 02:35:47 Tried adding: 1
+2022.04.15 02:35:47 Tried adding: 1
+2022.04.15 02:35:47 Tried adding: 1
+2022.04.15 02:35:47 Tried adding: 1
+2022.04.15 02:35:47 Tried adding: 1
+2022.04.15 02:35:47 Tried adding: 1
+2022.04.15 02:35:47 Tried adding: 1
+2022.04.15 02:35:47 Tried adding: 1
+2022.04.15 02:35:48 Tried adding: 1
+2022.04.15 02:35:49 Tried adding: 1
+2022.04.15 02:35:53 Allocated Ram: 14MiB
+2022.04.15 02:35:53 Total memory obtained from OS: 25MiB
+2022.04.15 02:35:53 Total garbage collected memory: 45MiB
+2022.04.15 02:35:53 Closing program...
+2022.04.15 02:36:01 Started program
+2022.04.15 02:36:01 Loaded config
+2022.04.15 02:36:03 Discord Presence error has occurred: Timed out waiting for pipe '\\.\pipe\discord-ipc-0' to come available, shutdown: false
+2022.04.15 02:36:03 Please ensure that discord is opened!
+Temporarily disabling discord rich presence
+2022.04.15 02:36:06 Tried adding: 1
+2022.04.15 02:36:07 Tried adding: 1
+2022.04.15 02:36:07 Tried adding: 1
+2022.04.15 02:36:07 Tried adding: 1
+2022.04.15 02:36:07 Tried adding: 1
+2022.04.15 02:36:07 Tried adding: 1
+2022.04.15 02:36:07 Tried adding: 1
+2022.04.15 02:36:07 Tried adding: 1
+2022.04.15 02:36:07 Tried adding: 1
+2022.04.15 02:36:07 Tried adding: 1
+2022.04.15 02:36:07 Tried adding: 1
+2022.04.15 02:36:07 Tried adding: 1
+2022.04.15 02:36:07 Tried adding: 1
+2022.04.15 02:36:07 Tried adding: 1
+2022.04.15 02:36:07 Tried adding: 1
+2022.04.15 02:36:07 Tried adding: 1
+2022.04.15 02:36:08 Tried adding: 1
+2022.04.15 02:36:08 Tried adding: 1
+2022.04.15 02:36:08 Tried adding: 1
+2022.04.15 02:36:08 Tried adding: 1
+2022.04.15 02:36:08 Tried adding: 1
+2022.04.15 02:36:08 Tried adding: 1
+2022.04.15 02:36:08 Tried adding: 1
+2022.04.15 02:36:08 Tried adding: 1
+2022.04.15 02:36:08 Tried adding: 1
+2022.04.15 02:36:08 Tried adding: 1
+2022.04.15 02:36:08 Tried adding: 1
+2022.04.15 02:36:58 Allocated Ram: 12MiB
+2022.04.15 02:36:58 Total memory obtained from OS: 29MiB
+2022.04.15 02:36:58 Total garbage collected memory: 233MiB
+2022.04.15 02:36:58 Closing program...
+2022.04.15 02:37:25 Started program
+2022.04.15 02:37:25 Loaded config
+2022.04.15 02:37:27 Discord Presence error has occurred: Timed out waiting for pipe '\\.\pipe\discord-ipc-0' to come available, shutdown: false
+2022.04.15 02:37:27 Please ensure that discord is opened!
+Temporarily disabling discord rich presence
+2022.04.15 02:37:31 Allocated Ram: 11MiB
+2022.04.15 02:37:31 Total memory obtained from OS: 29MiB
+2022.04.15 02:37:31 Total garbage collected memory: 17MiB
+2022.04.15 02:37:31 Closing program...
+2022.04.15 02:37:38 Started program
+2022.04.15 02:37:38 Loaded config
+2022.04.15 02:37:40 Discord Presence error has occurred: Timed out waiting for pipe '\\.\pipe\discord-ipc-0' to come available, shutdown: false
+2022.04.15 02:37:40 Please ensure that discord is opened!
+Temporarily disabling discord rich presence
+2022.04.15 02:37:42 Tried adding: 1
+2022.04.15 02:37:43 Tried adding: 1
+2022.04.15 02:37:44 Tried adding: 1
+2022.04.15 02:37:44 Tried adding: 1
+2022.04.15 02:37:44 Tried adding: 1
+2022.04.15 02:37:45 Tried adding: 2
+2022.04.15 02:37:45 Tried adding: 2
+2022.04.15 02:37:45 Tried adding: 2
+2022.04.15 02:37:46 Tried adding: 3
+2022.04.15 02:37:46 Tried adding: 3
+2022.04.15 02:37:47 Tried adding: 3
+2022.04.15 02:37:47 Tried adding: 3
+2022.04.15 02:38:13 Allocated Ram: 8MiB
+2022.04.15 02:38:13 Total memory obtained from OS: 29MiB
+2022.04.15 02:38:13 Total garbage collected memory: 153MiB
+2022.04.15 02:38:13 Closing program...
+2022.04.15 02:38:19 Started program
+2022.04.15 02:38:19 Loaded config
+2022.04.15 02:38:22 Discord Presence error has occurred: Timed out waiting for pipe '\\.\pipe\discord-ipc-0' to come available, shutdown: false
+2022.04.15 02:38:22 Please ensure that discord is opened!
+Temporarily disabling discord rich presence
+2022.04.15 02:39:20 Allocated Ram: 8MiB
+2022.04.15 02:39:20 Total memory obtained from OS: 33MiB
+2022.04.15 02:39:20 Total garbage collected memory: 213MiB
+2022.04.15 02:39:20 Closing program...
+2022.04.15 02:39:26 Started program
+2022.04.15 02:39:26 Loaded config
+2022.04.15 02:39:29 Discord Presence error has occurred: Timed out waiting for pipe '\\.\pipe\discord-ipc-0' to come available, shutdown: false
+2022.04.15 02:39:29 Please ensure that discord is opened!
+Temporarily disabling discord rich presence
+2022.04.15 02:41:04 Tried adding: g
+2022.04.15 02:44:15 Allocated Ram: 12MiB
+2022.04.15 02:44:15 Total memory obtained from OS: 25MiB
+2022.04.15 02:44:15 Total garbage collected memory: 1262MiB
+2022.04.15 02:44:15 Closing program...
+2022.04.15 02:44:20 Started program
+2022.04.15 02:44:20 Loaded config
+2022.04.15 02:44:23 Discord Presence error has occurred: Timed out waiting for pipe '\\.\pipe\discord-ipc-0' to come available, shutdown: false
+2022.04.15 02:44:23 Please ensure that discord is opened!
+Temporarily disabling discord rich presence
+2022.04.15 02:44:45 Allocated Ram: 8MiB
+2022.04.15 02:44:45 Total memory obtained from OS: 25MiB
+2022.04.15 02:44:45 Total garbage collected memory: 83MiB
+2022.04.15 02:44:45 Closing program...

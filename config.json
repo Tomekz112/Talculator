@@ -1,0 +1,13 @@
+{
+    "BackgroundColor": {"R": 0, "G": 0, "B": 0, "A": 125},
+    "ButtonsColor": {"R": 80, "G": 220, "B": 100, "A": 200},
+    "NumbersColor": {"R": 80, "G": 210, "B": 100, "A": 200},
+    "AddTextColor": {"R": 80, "G": 140, "B": 100, "A": 150},
+    "ErrorColor": {"R": 255, "G": 0, "B": 0, "A": 255},
+    "FontName": "Default",
+    "Vsync": false,
+    "Discord": true,
+    "MaxFPS": 60,
+    "Resolution": {"X": 600.0,"Y": 400.0},
+    "ClearLogsAfter": 0
+}

@@ -1,0 +1,101 @@
+2022.04.19 02:33:53 Started program
+2022.04.19 02:33:53 Loaded config
+2022.04.19 02:46:06 Started program
+2022.04.19 02:46:06 Loaded config
+2022.04.19 02:46:12 Tried adding: g
+2022.04.19 02:46:13 Tried adding: g
+2022.04.19 02:46:13 Tried adding: g
+2022.04.19 03:11:21 Started program
+2022.04.19 03:11:21 Loaded config
+2022.04.19 03:11:24 Tried adding: g
+2022.04.19 03:11:29 Allocated Ram: 9MiB
+2022.04.19 03:11:29 Total memory obtained from OS: 25MiB
+2022.04.19 03:11:29 Total garbage collected memory: 32MiB
+2022.04.19 03:11:29 Closing program...
+2022.04.19 03:40:15 Started program
+2022.04.19 03:40:15 Loaded config
+2022.04.19 03:40:18 Tried adding: 1
+2022.04.19 03:40:18 Tried adding: /
+2022.04.19 03:40:19 Tried adding: 9
+2022.04.19 03:40:20 Tried adding: =
+2022.04.19 03:40:20 Calculating: 1/9
+2022.04.19 03:40:20 Result: 0.1111111111111111
+2022.04.19 03:40:21 Tried adding: /
+2022.04.19 03:40:23 Tried adding: 0
+2022.04.19 03:40:23 Tried adding: =
+2022.04.19 03:40:23 Calculating: 0.1111111111111111/0
+2022.04.19 03:40:23 Result: +Inf
+2022.04.19 03:40:25 Tried adding: +
+2022.04.19 03:40:26 Tried adding: +
+2022.04.19 03:40:26 Tried adding: +
+2022.04.19 03:40:27 Tried adding: -
+2022.04.19 03:40:28 Tried adding: 1
+2022.04.19 03:40:28 Tried adding: 2
+2022.04.19 03:40:29 Tried adding: =
+2022.04.19 03:40:29 Calculating: +∞(-12)
+2022.04.19 03:40:30 Tried adding: +
+2022.04.19 03:40:30 Tried adding: =
+2022.04.19 03:40:30 Calculating: +∞(-12)
+2022.04.19 03:40:31 Tried adding: 1
+2022.04.19 03:40:31 Tried adding: 2
+2022.04.19 03:40:31 Tried adding: ⌫
+2022.04.19 03:40:32 Tried adding: ⌫
+2022.04.19 03:40:32 Tried adding: ⌫
+2022.04.19 03:40:32 Tried adding: ⌫
+2022.04.19 03:40:33 Tried adding: ⌫
+2022.04.19 03:40:33 Tried adding: ⌫
+2022.04.19 03:40:33 Tried adding: ⌫
+2022.04.19 03:40:34 Tried adding: ⌫
+2022.04.19 03:40:34 Tried adding: ⌫
+2022.04.19 03:40:35 Tried adding: ⌫
+2022.04.19 03:40:35 Tried adding: ⌫
+2022.04.19 03:40:43 Tried adding: 1
+2022.04.19 03:40:43 Tried adding: 2
+2022.04.19 03:40:48 Tried adding: +
+2022.04.19 03:40:54 Tried adding: a
+2022.04.19 03:40:56 Tried adding: a
+2022.04.19 03:40:56 Tried adding: b
+2022.04.19 03:40:57 Tried adding: c
+2022.04.19 03:40:58 Tried adding: c
+2022.04.19 03:40:58 Tried adding: c
+2022.04.19 03:41:18 Allocated Ram: 9MiB
+2022.04.19 03:41:18 Total memory obtained from OS: 25MiB
+2022.04.19 03:41:18 Total garbage collected memory: 310MiB
+2022.04.19 03:41:18 Closing program...
+2022.04.19 03:41:22 Started program
+2022.04.19 03:41:22 Loaded config
+2022.04.19 03:41:34 Tried adding: 1
+2022.04.19 03:41:34 Tried adding: 2
+2022.04.19 03:41:35 Tried adding: +
+2022.04.19 03:41:36 Tried adding: a
+2022.04.19 03:41:37 Tried adding: a
+2022.04.19 03:41:37 Tried adding: a
+2022.04.19 03:44:33 Allocated Ram: 12MiB
+2022.04.19 03:44:33 Total memory obtained from OS: 25MiB
+2022.04.19 03:44:33 Total garbage collected memory: 978MiB
+2022.04.19 03:44:33 Closing program...
+2022.04.19 03:44:42 Started program
+2022.04.19 03:44:42 Loaded config
+2022.04.19 03:44:44 Tried adding: 1
+2022.04.19 03:44:44 Tried adding: 2
+2022.04.19 03:44:45 Tried adding: +
+2022.04.19 03:44:46 Tried adding: a
+2022.04.19 03:44:48 Tried adding: b
+2022.04.19 03:44:49 Tried adding: c
+2022.04.19 03:44:50 Tried adding: (
+2022.04.19 03:45:02 Tried adding: 6
+2022.04.19 03:45:02 Tried adding: 7
+2022.04.19 03:45:03 Tried adding: ,
+2022.04.19 03:45:03 Tried adding: 3
+2022.04.19 03:45:03 Tried adding: 4
+2022.04.19 03:45:04 Tried adding: )
+2022.04.19 03:45:05 Tried adding: =
+2022.04.19 03:45:05 Calculating: 12+abc(67.34)
+2022.04.19 03:45:05 Tried adding: =
+2022.04.19 03:45:05 Calculating: 12+abc(67.34)
+2022.04.19 03:45:06 Tried adding: =
+2022.04.19 03:45:06 Calculating: 12+abc(67.34)
+2022.04.19 03:45:08 Allocated Ram: 11MiB
+2022.04.19 03:45:08 Total memory obtained from OS: 25MiB
+2022.04.19 03:45:08 Total garbage collected memory: 138MiB
+2022.04.19 03:45:08 Closing program...
