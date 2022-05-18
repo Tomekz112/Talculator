@@ -70,15 +70,20 @@ func (eq *Equation) Add(s string) {
 			funcName := eq.body[len(strings.TrimRight(eq.body, AllowedFuncChars)):]
 			f, _ := SearchFunction(funcName, *eq)
 			Functions = append(Functions, f)
+			CurrFunc = len(Functions) - 1
+			Depth++
 		}
 	case ")":
 		if strings.Count(eq.body, "(") <= strings.Count(eq.body, ")") {
 			return
 		}
 		eq.brackets = strings.TrimSuffix(eq.brackets, ")")
-	case ".":
-		fallthrough
 	case ",":
+		if Depth > 0 {
+			CurrentExpression = Functions[CurrFunc].NextEq()
+		}
+		fallthrough
+	case ".":
 		if fraction { //fraction - ułamek
 			return
 		}

@@ -9,6 +9,9 @@ import (
 var timeNow = time.Now()
 
 func LoadDiscordRichPresence() {
+	if !userSettings.Discord {
+		return
+	}
 	err := client.Login("923727747346497546")
 	if err != nil {
 		userSettings.Discord = false

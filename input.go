@@ -9,23 +9,28 @@ const OperatorSymbols = ",.-+*/^()"
 const AllowedFuncChars = "abcdefghijklmnopqrstuvwxyz"
 
 var MathExpression Equation
-var funcMathExpressions []Equation
+var CurrentExpression *Equation
 var Functions []Function
+var CurrFunc int
+var Depth int = 0
 
 //"<", "(", ")", ".", "=", "clr", "1", "2", "3", "+", "-", "fbr", "4", "5", "6", "*", "/", "√", "7", "8", "9", "0", "^", "³√"
 func HandleInput(Input string) {
+	if Input == "" {
+		return
+	}
 	LogMessage("Tried adding: " + Input)
 	switch {
 	case Input == "⌫":
-		MathExpression.CutSuffix()
+		CurrentExpression.CutSuffix()
 	case Input == "clr":
 		MathExpression.Clear()
 	case Input == "=":
-		MathExpression.Calculate()
+		CurrentExpression.Calculate()
 	case strings.ContainsAny(Input, OperatorSymbols) || IsInt(Input):
-		MathExpression.Add(Input)
+		CurrentExpression.Add(Input)
 	case strings.ContainsAny(Input, AllowedFuncChars):
-		MathExpression.AddFunc(Input)
+		CurrentExpression.AddFunc(Input)
 	}
 	updateText()
 }

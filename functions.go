@@ -69,6 +69,16 @@ type Function struct {
 
 var TextActive = false
 
+func (f *Function) NextEq() (eq *Equation) {
+	for i := 0; i < len(f.Input); i++ {
+		if f.Input[i].body != "" {
+			return &f.Input[i]
+		}
+	}
+	f.Parent.Add(")")
+	return &f.Parent
+}
+
 //Returns errorcode
 //0 - function passed correctly
 //1 - error
